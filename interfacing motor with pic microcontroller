@@ -1,24 +1,5 @@
 
 
-Skip to content
-Using Gmail with screen readers
-
-1 of 812
-motor code
-Inbox
-x
-
-gurdeep sarao
-12:07 (31 minutes ago)
-to me, shallugargg001, amanpreet7726
-
-/* 
- * File:   Motors.h
- * Author: GurdeepSarao
- *
- * Created on March 9, 2020, 3:32 AM
- */
-
 #ifndef MOTORS_H
 #define	MOTORS_H
 
